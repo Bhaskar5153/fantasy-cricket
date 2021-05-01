@@ -1,6 +1,6 @@
 # fantasy-cricket
 
-Hello, This is my first GitHub experience. I would like to share a little technique and idea behind creating a predition model for fantacy cricket.
+Hello, This is my first GitHub experience. I would like to share a little technique and idea behind creating a predition model for fantasy cricket.
 the data is being taken from https://www.espncricinfo.com/
 i still need to prepare the data for all IPL teams. so far, i believe CSK team has been uploaded with performance record.
 
