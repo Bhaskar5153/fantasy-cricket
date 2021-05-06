@@ -102,11 +102,6 @@ class App_layout(GridLayout):
         self.prediction.disabled = False
         self.prediction.insert_text(result)
 
-        if result in ['selected']:
-            self.prediction.background_color = (0, 190, 0)
-
-
-
 
 class Fantasyapp(App):
     def build(self):
